@@ -1,0 +1,9 @@
+{
+	"name": "dfomkarproj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cd57d81-01c4-4ab5-be27-929c66564ca3",
+		"tenantId": "4ae781fc-e351-473e-836a-2a257d083c95"
+	}
+}
